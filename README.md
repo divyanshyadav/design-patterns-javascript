@@ -1,5 +1,5 @@
-# Design Patterns Implementaion in Javascript
+# Design Patterns Implementation in Javascript
 
-# Commands
+## Playground
 
 npm start
