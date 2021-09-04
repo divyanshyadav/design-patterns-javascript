@@ -1,11 +1,12 @@
-import Subject from './observer';
+import Observer from './behavioral-patterns/observer';
 
-const subject = new Subject();
+class Button extends Observer {}
 
-const fn1 = () => console.log('notified fn1');
-const fn2 = () => console.log('notified fn2');
+const fn1 = e => console.log(e.target);
+const fn2 = e => console.log(e.target);
 
-subject.subscribe(fn1);
-subject.subscribe(fn2);
+const button = new Button();
+button.subscribe('click', fn1);
+button.subscribe('click', fn2);
 
-subject.notify();
+button.notify('click', { target: button });
