@@ -3,3 +3,7 @@
 ## Playground
 
 npm start
+
+## References
+
+https://www.dofactory.com/javascript/design-patterns
