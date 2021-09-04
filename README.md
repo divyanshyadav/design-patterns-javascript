@@ -1,3 +1,5 @@
-# Design Patterns examples in Javascript
+# Design Patterns Implementaion in Javascript
 
-Contains common design patterns used in javascript.
+# Commands
+
+npm start
