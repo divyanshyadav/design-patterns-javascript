@@ -4,20 +4,15 @@
     "description": "",
     "main": "src/playground.js",
     "scripts": {
-        "start": "babel-node src/playground.js",
-        "start:dev": "nodemon --exec babel-node src/playground.js",
-        "build": "babel src/playground.js -d dist",
+        "test": "jest",
         "test:watch": "jest --watch"
     },
     "author": "Divyansh Yadav",
     "license": "ISC",
     "devDependencies": {
-        "@babel/cli": "^7.15.4",
         "@babel/core": "^7.15.5",
-        "@babel/node": "^7.15.4",
         "@babel/preset-env": "^7.15.4",
         "@types/jest": "^27.0.1",
-        "jest": "^27.1.1",
-        "nodemon": "^2.0.12"
+        "jest": "^27.1.1"
     }
 }
