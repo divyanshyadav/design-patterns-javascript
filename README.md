@@ -1,4 +1,4 @@
-# Design Patterns Implementation in Javascript
+# Design Patterns Implementation using Javascript
 
 ### Creational Patterns
 
