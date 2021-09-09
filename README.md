@@ -16,7 +16,7 @@
 -   [ ] **Decorator:**
 -   [ ] **Facade:**
 -   [ ] **Flyweight:**
--   **Proxy:**
+-   [ ] **Proxy:**
 
 ### Behavioral Patterns
 
