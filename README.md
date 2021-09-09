@@ -33,9 +33,14 @@
 -   [ ] **Template:**
 -   [ ] **Visitor:**
 
-### Scripts
+### Testing
 
-`npm test`
+These commands will install the project dependencies and run the tests.
+
+```bash
+npm install
+npm test
+```
 
 ### References
 
