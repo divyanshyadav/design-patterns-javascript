@@ -2,10 +2,9 @@
     "name": "design-patterns-javascript",
     "version": "1.0.0",
     "description": "",
-    "main": "src/playground.js",
     "scripts": {
         "test": "jest",
-        "test:watch": "jest --watch"
+        "test:watch": "npm run test -- --watch"
     },
     "author": "Divyansh Yadav",
     "license": "ISC",

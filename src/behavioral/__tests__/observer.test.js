@@ -1,4 +1,4 @@
-import Observer from '../src/behavioral/observer'
+import Observer from '../observer'
 
 test('observer subscribe and notify', () => {
     class Button extends Observer {}

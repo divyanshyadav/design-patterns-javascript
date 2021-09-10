@@ -1,4 +1,4 @@
-import Singleton from '../src/creational/singleton'
+import Singleton from '../singleton'
 
 test('new Object will always return same', () => {
     const instance = new Singleton()
