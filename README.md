@@ -20,7 +20,7 @@
 
 ## Behavioral Patterns
 
--   [x] **Observer:** Publish/Subscribe pattern allows a class instance to notify all the observers who are subscribed to an event.
+-   [x] **Observer:** Publish/Subscribe pattern allows a subject class instance to notify all the observers when are subscribed to subject changes.
 -   [ ] **Chain of responsibility:**
 -   [ ] **Command:**
 -   [ ] **Interpreter:**
