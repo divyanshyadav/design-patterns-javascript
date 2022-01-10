@@ -46,3 +46,4 @@ npm test
 
 -   https://www.dofactory.com/javascript/design-patterns
 -   https://github.com/fbeline/design-patterns-JS
+-   https://www.patterns.dev/posts/introduction/
