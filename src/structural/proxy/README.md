@@ -8,4 +8,6 @@
 
 ## Warning
 
-Over use of Proxy object or performing heavy operations on each handler method invocation can easily affect the performance of the application negatively. It's best to not use proxy for performance-critical code.
+-   Over use of Proxy object or performing heavy operations on each handler method invocation can easily affect the performance of the application negatively.
+
+-   It's best to not use proxy for performance-critical code.
