@@ -19,7 +19,7 @@ describe('logger proxy', () => {
         )
     })
 
-    test('setting properties', () => {
+    test('modifying properties', () => {
         const logger = {
             log: jest.fn(),
         }
