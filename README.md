@@ -6,7 +6,7 @@
 -   [ ] **Abstract factory:**
 -   [ ] **Builder:**
 -   [ ] **Factory method:**
--   [ ] **Prototype:**
+-   [x] **Prototype:**
 
 ## Structural Patterns
 
