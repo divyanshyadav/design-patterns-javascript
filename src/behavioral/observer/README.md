@@ -13,6 +13,6 @@ Using observer pattern, objects, the observers, can subscribe to another object 
 
 -   If the observer becomes very complex, it may cause performance issues when notifying all observers.
 
-## Lib using this pattern
+## Libs using this pattern
 
 -   RxJS
