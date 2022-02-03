@@ -25,13 +25,17 @@
 -   [ ] **Command:**
 -   [ ] **Interpreter:**
 -   [ ] **Iterator:**
--   [ ] **Mediator:**
+-   [x] **Mediator/Middleware:**
 -   [ ] **Memento:**
 -   [ ] **Observer:**
 -   [ ] **State:**
 -   [ ] **Strategy:**
 -   [ ] **Template:**
 -   [ ] **Visitor:**
+
+## Others
+
+-   [x] **mixin**
 
 ### Testing
 
